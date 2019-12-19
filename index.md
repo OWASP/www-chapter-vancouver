@@ -70,7 +70,7 @@ We would like to thank the following companies for providing us with
 space, pizza and pop, and helping us with our mission to enrich
 Vancouver's application security community.
 
-<table cellpadding="15" cellspacing="0">
+<table cellpadding="15" cellspacing="0" style="border: 0px;">
     <tr>
         <td> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" /> </a> </td>
         <td> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" /> </a> </td>
