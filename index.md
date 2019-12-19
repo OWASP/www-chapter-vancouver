@@ -21,7 +21,7 @@ hope you can join us in accomplishing that.
 
 ![Vancouver, BC](assets/images/Vancouver1000x450.png)
 
-# Events
+## Events
 
 Our monthly sessions take place on the 4th Thursday of each month. We
 also host one off events and workshops around town.
@@ -29,7 +29,7 @@ also host one off events and workshops around town.
 Have a look at [our calendar of awesome
 events](http://owaspvancouver.eventbrite.com/) and join us\!
 
-# Watch Online
+## Watch Online
 
 **Subscribe** to the **[OWASP Vancouver YouTube
 channel](https://www.youtube.com/channel/UCSXBb_cPvieNm-MoLjjtbXw)**
@@ -37,7 +37,7 @@ where you can check out live streams of upcoming sessions as well as
 archives of previous sessions (big thanks to **George Pajari** and
 volunteers).
 
-# Speakers
+## Speakers
 
 We welcome speakers of all level\! You don't have to be a pro to talk at
 one of our events, but we do ask that you talk be related to an
@@ -55,7 +55,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-# Sponsorship
+## Sponsorship
 
 As a [501(c)(3)](/about) non-profit professional
 association your support and sponsorship of any meeting venue and/or
@@ -64,12 +64,21 @@ made online using the authorized online chapter donation button.
 
 [Donate](/donate) to this chapter or become a local chapter supporter.
 
-# Our 2019 Sponsors
+## Our 2019 Sponsors
 
 We would like to thank the following companies for providing us with
 space, pizza and pop, and helping us with our mission to enrich
 Vancouver's application security community.
 
-<!-- <table cellpadding="15" cellspacing="0"> -->
-| [![FWDSEC](assets/images/FwdSec.png)](https://www.forwardsecurity.com/) | [![Plenty of Fish](assets/images/PlentyOfFish.png)](https://www.pof.com/en/press/) | [![Zenefits](assets/images/Zenefits.png)](https://www.zenefits.com/) |
-| [![Galvanize](assets/images/Galvanize.jpg)](https://www.wegalvanize.com/) | [![Cisco](assets/images/CISCO.png)](https://www.cisco.com/c/en_ca/index.html) | [![>_cmd](assets/images/Cmd.png)](https://www.cmd.com/) |
+<table cellpadding="15" cellspacing="0">
+    <tr>
+        <td> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" /> </a> </td>
+        <td> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" /> </a> </td>
+        <td> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" />< /a> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" /> </a> </td>
+        <td> <a href="https://www.cisco.com/c/en_ca/index.html"> <img src="assets/images/CISCO.png" alt="Cisco" /> </a> </td>
+        <td> <a href="https://www.cmd.com/"> <img src="assets/images/Cmd.png" alt=">_cmd" /> </a> </td>
+    </tr>
+</table>
