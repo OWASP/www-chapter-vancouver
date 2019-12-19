@@ -70,15 +70,15 @@ We would like to thank the following companies for providing us with
 space, pizza and pop, and helping us with our mission to enrich
 Vancouver's application security community.
 
-<table cellpadding="15" cellspacing="0" style="border: 0px;">
+<table style="border-collapse: collapse; border: none;">
     <tr>
-        <td> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" /> </a> </td>
-        <td> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" /> </a> </td>
-        <td> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" /> </a> </td>
+        <td style="padding: 15px;"> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" /> </a> </td>
+        <td style="padding: 15px;"> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" /> </a> </td>
+        <td style="padding: 15px;"> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" /> </a> </td>
     </tr>
     <tr>
-        <td> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" /> </a> </td>
-        <td> <a href="https://www.cisco.com/c/en_ca/index.html"> <img src="assets/images/CISCO.png" alt="Cisco" /> </a> </td>
-        <td> <a href="https://www.cmd.com/"> <img src="assets/images/Cmd.png" alt=">_cmd" /> </a> </td>
+        <td style="padding: 15px;"> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" /> </a> </td>
+        <td style="padding: 15px;"> <a href="https://www.cisco.com/c/en_ca/index.html"> <img src="assets/images/CISCO.png" alt="Cisco" /> </a> </td>
+        <td style="padding: 15px;"> <a href="https://www.cmd.com/"> <img src="assets/images/Cmd.png" alt=">_cmd" /> </a> </td>
     </tr>
 </table>
