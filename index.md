@@ -74,7 +74,7 @@ Vancouver's application security community.
     <tr>
         <td> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" /> </a> </td>
         <td> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" /> </a> </td>
-        <td> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" />< /a> </td>
+        <td> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" /> </a> </td>
     </tr>
     <tr>
         <td> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" /> </a> </td>
