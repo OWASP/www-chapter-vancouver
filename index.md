@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vancouver
-tags: example-tag
+tags: participation-tag sponsorship-tag
 level: 0
 
 region: Canada
@@ -36,62 +36,3 @@ channel](https://www.youtube.com/channel/UCSXBb_cPvieNm-MoLjjtbXw)**
 where you can check out live streams of upcoming sessions as well as
 archives of previous sessions (big thanks to **George Pajari** and
 volunteers).
-
-## Speakers
-
-We welcome speakers of all level\! You don't have to be a pro to talk at
-one of our events, but we do ask that you talk be related to an
-application security domain and you provide value to attendees. To be a
-speaker, simply review the [speaker
-agreement](/www-policy/legal/speaker-agreement.html) and then contact the our
-[chapter lead](mailto:farshad.abasi@owasp.org) with details of what
-OWASP project, independent research or related application security
-topic you would like to present on.
-
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Sponsorship
-
-As a [501(c)(3)](/about) non-profit professional
-association your support and sponsorship of any meeting venue and/or
-refreshments is tax-deductible. Financial contributions should only be
-made online using the authorized online chapter donation button.
-
-[Donate](/donate) to this chapter or become a local chapter supporter.
-
-## Our 2019 Sponsors
-
-We would like to thank the following companies for providing us with
-space, pizza and pop, and helping us with our mission to enrich
-Vancouver's application security community.
-
-<style type="text/css">
-    table.sponsors-table {
-        border-collapse: collapse;
-        border: none;
-    }
-
-    table.sponsors-table td, table.sponsors-table tr {
-        padding: 10px;
-        border: 0px;
-        background-color: #ffffff;
-    }
-</style>
-
-<table class="sponsors-table">
-    <tr>
-        <td> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" title="FWDSEC"/> </a> </td>
-        <td> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" title="Plenty of Fish"/> </a> </td>
-        <td> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" title="Zenefits"/> </a> </td>
-    </tr>
-    <tr>
-        <td> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" title="Galvanize"/> </a> </td>
-        <td> <a href="https://www.cisco.com/c/en_ca/index.html"> <img src="assets/images/CISCO.png" alt="Cisco" title="Cisco"/> </a> </td>
-        <td> <a href="https://www.cmd.com/"> <img src="assets/images/Cmd.png" alt=">_cmd" title=">_cmd"/> </a> </td>
-    </tr>
-</table>
