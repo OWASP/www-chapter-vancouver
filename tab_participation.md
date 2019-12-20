@@ -3,7 +3,7 @@ title: Participation
 layout:  null
 tab: true
 order: 1
-tags: particitation-tag
+tags: participation-tag
 ---
 
 ## Speakers
