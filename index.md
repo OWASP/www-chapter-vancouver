@@ -5,7 +5,7 @@ title: OWASP Vancouver
 tags: participation-tag sponsorship-tag
 level: 0
 
-region: Canada
+region: North America
 
 ---
 
