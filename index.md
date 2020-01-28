@@ -29,7 +29,7 @@ also host one off events and workshops around town.
 Have a look at [our calendar of awesome
 events](http://owaspvancouver.eventbrite.com/) and join us\!
 
-Presentations from some of our past events can be found in the [Past Events](#div-past-events) section.
+Presentations from some of our past events can be found in the [Past Events](#div-pastevents) section.
 
 ## Watch Online
 
