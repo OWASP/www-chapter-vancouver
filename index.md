@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vancouver
-tags: past-events-tag participation-tag sponsorship-tag
+tags: pastevents-tag participation-tag sponsorship-tag
 level: 0
 
 region: North America
