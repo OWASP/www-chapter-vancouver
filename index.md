@@ -29,7 +29,8 @@ also host one off events and workshops around town.
 Have a look at [our calendar of awesome
 events](http://owaspvancouver.eventbrite.com/) and join us\!
 
-Presentations from some of our past events can be found in the [Past Events](#div-pastevents) section.
+Presentations from some of our past events can be found in the **Past Events** section above.
+<!-- links to tabs, like [Past Events](#div-pastevents) are not working at the moment (28 Jan 2020) -->
 
 ## Watch Online
 
