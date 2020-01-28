@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vancouver
-tags: participation-tag sponsorship-tag
+tags: past-events-tag participation-tag sponsorship-tag
 level: 0
 
 region: North America
@@ -28,6 +28,8 @@ also host one off events and workshops around town.
 
 Have a look at [our calendar of awesome
 events](http://owaspvancouver.eventbrite.com/) and join us\!
+
+Presentations from some of our past events can be found in the [Past Events](#div-past-events) section.
 
 ## Watch Online
 
