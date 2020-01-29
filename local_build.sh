@@ -1,10 +1,12 @@
 #!/bin/bash
 
 # 2020/01/28 - @airman604
-# script for locally building OWASP Vancouver web page for testing and debugging
-# uses Jekyll Docker image, Docker and `jq` need to be installed
-# run in the www-chapter-vancouver directory as it uses files in the current path
-# invoke with `-u` or `--update` to update Jekyll image used to the latest version
+# * script for locally building OWASP Vancouver web page for testing and debugging
+# * uses Jekyll Docker image, Docker and `jq` need to be installed
+# * run in the www-chapter-vancouver directory as it uses files in the current path
+# * the script will re-use the existing Jekyll container if present as creating
+#   a new container installs additional Jekyll modules and takes a while
+# * invoke with `-u` or `--update` to update Jekyll image used to the latest version
 
 CONTAINER_NAME=jekyll_local_build
 
