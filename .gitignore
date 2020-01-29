@@ -2,3 +2,6 @@ __pycache__
 env
 .vscode
 .DS_Store
+_site/
+local_build.sh
+Gemfile.lock
