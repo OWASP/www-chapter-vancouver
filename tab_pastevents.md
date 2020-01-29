@@ -19,7 +19,7 @@ You can find the full list of our past events [here](http://owaspvancouver.event
             <th>Title</th>
             <th>Materials</th>
         </tr>
-<!--    row template, add newer rows at the top!
+<!--    new past event template, add newer rows at the top!
         <tr>
             <td>2020/MM/DD</td>
             <td><i>TALK_TITLE</i> by <a href="SOME_LINK">SPEAKER_NAME</a></td>
