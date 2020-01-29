@@ -19,6 +19,13 @@ You can find the full list of our past events [here](http://owaspvancouver.event
             <th>Title</th>
             <th>Materials</th>
         </tr>
+<!--    row template, add newer rows at the top!
+        <tr>
+            <td>2020/MM/DD</td>
+            <td><i>TALK_TITLE</i> by <a href="SOME_LINK">SPEAKER_NAME</a></td>
+            <td><a href="assets/presentations/FILE_NAME">Slides</a></td>
+        </tr>
+-->
         <tr>
             <td>2020/01/23</td>
             <td><i>How to leverage static code analysis in your CICD pipelines for continuous code quality</i> by <a href="https://danaepp.com">Dana Epp</a></td>
