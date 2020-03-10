@@ -27,6 +27,21 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
 -->
         <tr>
+            <td>2020/03/05</td>
+            <td><i>Open Sesame: Hacking like a boss using broken authentication</i> by <b>Thomas Hughes</b></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2020/03/05</td>
+            <td><i>Building a Validator For SaaS Provider's Reason for Accessing Customer Data</i> by <b>Jack Cha</b></td>
+            <td></td>
+        </tr>
+            <tr>
+            <td>2020/02/20</td>
+            <td><i>Exploit your way through vulnerabilities, and learn application security concepts (hands on workshop)</i> by <a href="https://www.securityinnovation.com/">Security Innovation</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>2020/01/23</td>
             <td><i>How to leverage static code analysis in your CICD pipelines for continuous code quality</i> by <a href="https://danaepp.com">Dana Epp</a></td>
             <td><a href="assets/presentations/2020-01_SCA_in_Azure_DevOps.pdf">Slides</a></td>
