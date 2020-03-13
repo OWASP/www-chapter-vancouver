@@ -28,18 +28,18 @@ You can find the full list of our past events [here](http://owaspvancouver.event
 -->
         <tr>
             <td>2020/03/05</td>
-            <td><i>Open Sesame: Hacking like a boss using broken authentication</i> by <b>Thomas Hughes</b></td>
+            <td><i>Open Sesame: Hacking like a boss using broken authentication</i> by Thomas Hughes</td>
             <td></td>
         </tr>
         <tr>
             <td>2020/03/05</td>
-            <td><i>Building a Validator For SaaS Provider's Reason for Accessing Customer Data</i> by <b>Jack Cha</b></td>
+            <td><i>Building a Validator For SaaS Provider's Reason for Accessing Customer Data</i> by Jack Cha</td>
             <td></td>
         </tr>
             <tr>
             <td>2020/02/20</td>
             <td><i>Exploit your way through vulnerabilities, and learn application security concepts (hands on workshop)</i> by <a href="https://www.securityinnovation.com/">Security Innovation</a></td>
-            <td></td>
+            <td><a href="assets/presentations/2020-02_OWASP_Vancouver_Small.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>2020/01/23</td>
