@@ -33,8 +33,8 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
         <tr>
             <td>2020/03/05</td>
-            <td><i>Building a Validator For SaaS Provider's Reason for Accessing Customer Data</i> by Jack Cha</td>
-            <td></td>
+            <td><i>Building a Validator For SaaS Provider's Reason for Accessing Customer Data</i> by <a href="https://www.linkedin.com/in/jack-cha/">Jack Cha</a></td>
+            <td><a href="assets/presentations/2020-03_Jack_Cha.pdf">Slides</a></td>
         </tr>
             <tr>
             <td>2020/02/20</td>
