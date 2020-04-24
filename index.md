@@ -40,6 +40,10 @@ where you can check out live streams of upcoming sessions as well as
 archives of previous sessions (big thanks to **George Pajari** and
 volunteers).
 
+## Slack Channel
+
+Join the conversation in [#owasp-vancouver](https://mars-comm.slack.com/archives/C6QHGPUAK) channel on [MARS Slack](https://fourthplanet.ca/slack/).
+
 ## Our 2019 Sponsors
 
 We would like to thank the following companies for providing us with
