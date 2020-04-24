@@ -27,6 +27,11 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
 -->
         <tr>
+            <td>2020/04/23</td>
+            <td><i>Design Patterns for Protecting Sensitive Data in EventDriven Apps</i> by <a href="https://www.linkedin.com/in/sasadjolic/">Sasha Jolich</a></td>
+           <td><a href="https://www.slideshare.net/sasadjolic/protecting-sensitive-data-in-eventdriven-design-edd-applications-232582037">Slides</a></td>
+        </tr>
+        <tr>
             <td>2020/03/05</td>
             <td><i>Open Sesame: Hacking like a boss using broken authentication</i> by Thomas Hughes</td>
             <td></td>
