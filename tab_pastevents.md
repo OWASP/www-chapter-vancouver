@@ -27,6 +27,16 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
 -->
         <tr>
+            <td>2020/05/22</td>
+            <td><i>Exploiting and Preventing Deserialization Vulnerabilities</i> by <a href="https://www.linkedin.com/in/wineberg/">Wesley Wineberg</a></td>
+            <td><a href="assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf">Slides</a></td>
+        </tr>
+        <tr>
+            <td>2020/05/22</td>
+            <td><i>Cryptography 101</i> by <a href="https://twitter.com/brodieve">Brodie McRae</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>2020/04/23</td>
             <td><i>Design Patterns for Protecting Sensitive Data in Event-Driven Apps</i> by <a href="https://www.linkedin.com/in/sasadjolic/">Sasha Jolich</a></td>
            <td><a href="https://www.slideshare.net/sasadjolic/protecting-sensitive-data-in-eventdriven-design-edd-applications-232582037">Slides</a></td>
