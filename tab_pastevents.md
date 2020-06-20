@@ -27,6 +27,16 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
 -->
         <tr>
+            <td>2020/06/18</td>
+            <td><i>CloudSec Fundamentals for AppSec Professionals</i> by <a href="https://www.linkedin.com/in/pablo-vidal-bouza-60064528/">Pablo Vidal</a></td>
+            <td><a href="assets/presentations/2020-06_CloudSec_Fundamentals.pdf">Slides</a></td>
+        </tr>
+        <tr>
+            <td>2020/06/18</td>
+            <td><i>GraphQL Security</i> by <a href="https://twitter.com/don_burks">Don Burks</a></td>
+            <td><a href="assets/presentations/2020-06_GraphQL_Security.pdf">Slides</a></td>
+        </tr>
+        <tr>
             <td>2020/05/22</td>
             <td><i>Exploiting and Preventing Deserialization Vulnerabilities</i> by <a href="https://www.linkedin.com/in/wineberg/">Wesley Wineberg</a></td>
             <td><a href="assets/presentations/2020-05_Exploiting_and_Preventing_Deserialization_Vulnerabilities.pdf">Slides</a></td>
