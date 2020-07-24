@@ -28,8 +28,8 @@ You can find the full list of our past events [here](http://owaspvancouver.event
 -->
         <tr>
             <td>2020/07/16</td>
-            <td><i>Detect Complex Code Patterns Using Semantic Grep</i> by Drew Dennison</td>
-            <td></td>
+            <td><i>Detect Complex Code Patterns Using Semantic Grep</i> <a href="https://twitter.com/drewdennison">by Drew Dennison</a></td>
+            <td><a href="assets/presentations/2020-07_r2c-semgrep-OWASP-Vancouver.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>2020/07/16</td>
