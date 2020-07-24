@@ -44,7 +44,7 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         <tr>
             <td>2020/05/22</td>
             <td><i>Cryptography 101</i> by <a href="https://twitter.com/brodieve">Brodie McRae</a></td>
-            <td></td>
+            <td><a href="assets/presentations/2020-05_Cryptography_101.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>2020/04/23</td>
