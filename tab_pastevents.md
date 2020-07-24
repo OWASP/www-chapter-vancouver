@@ -27,6 +27,16 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
 -->
         <tr>
+            <td>2020/07/16</td>
+            <td><i>Detect Complex Code Patterns Using Semantic Grep</i> by Drew Dennison/td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2020/07/16</td>
+            <td><i>Open API Economy - Managing Security and Compliance Risks</i> by Baljeet Malhotra</td>
+            <td></td>
+        </tr>
+        <tr>
             <td>2020/06/18</td>
             <td><i>CloudSec Fundamentals for AppSec Professionals</i> by <a href="https://www.linkedin.com/in/pablo-vidal-bouza-60064528/">Pablo Vidal</a></td>
             <td><a href="assets/presentations/2020-06_CloudSec_Fundamentals.pdf">Slides</a></td>
