@@ -33,8 +33,8 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
         <tr>
             <td>2020/07/16</td>
-            <td><i>Open API Economy - Managing Security and Compliance Risks</i> by Baljeet Malhotra</td>
-            <td></td>
+            <td><i>Open API Economy - Managing Security and Compliance Risks</i> by <a href="https://twitter.com/teejlab">Baljeet Malhotra</a></td>
+            <td><a href="assets/presentations/2020-07_Open_API_Economy.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>2020/06/18</td>
