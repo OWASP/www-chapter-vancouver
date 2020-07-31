@@ -6,6 +6,9 @@ tags: pastevents-tag participation-tag sponsorship-tag
 level: 0
 
 region: North America
+meetup-group: OWASP-Vancouver-Chapter
+country: Canada
+postal-code: 
 
 ---
 
