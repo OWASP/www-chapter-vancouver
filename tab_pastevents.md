@@ -27,6 +27,33 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
 -->
         <tr>
+            <td>2020/08/20</td>
+            <td><i>XXEs in Golang are Surprisingly Hard</i> by <a href="https://www.linkedin.com/in/ericmpayne/">Eric Payne</a></td>
+            <td><a href="assets/presentations/2020-08_Golang_XXE.pdf">Slides</a></td>
+        </tr>
+<!--
+        <tr>
+            <td>2020/08/20</td>
+            <td><i>Have you heard of Samy Kamkar?</i> by <a href="">Mrigakshi Goel</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2020/08/20</td>
+            <td><i>Getting your career started in web app testing</i> by <a href="">Lalithya Malyala</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2020/08/20</td>
+            <td><i>Salt, key derivation function, MFA. What do these have in common?</i> by <a href="">Andy Li</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2020/08/20</td>
+            <td><i>Application Logging</i> by <a href="">Sofia Chang</a></td>
+            <td></td>
+        </tr>
+-->
+        <tr>
             <td>2020/07/16</td>
             <td><i>Detect Complex Code Patterns Using Semantic Grep</i> by <a href="https://twitter.com/drewdennison">Drew Dennison</a></td>
             <td><a href="assets/presentations/2020-07_r2c-semgrep-OWASP-Vancouver.pdf">Slides</a></td>
