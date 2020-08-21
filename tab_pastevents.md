@@ -37,11 +37,13 @@ You can find the full list of our past events [here](http://owaspvancouver.event
             <td><i>Have you heard of Samy Kamkar?</i> by <a href="">Mrigakshi Goel</a></td>
             <td></td>
         </tr>
+-->
         <tr>
             <td>2020/08/20</td>
-            <td><i>Getting your career started in web app testing</i> by <a href="">Lalithya Malyala</a></td>
-            <td></td>
+            <td><i>Getting your career started in web app testing</i> by <a href="https://www.linkedin.com/in/lalithyamalyala">Lalithya Malyala</a></td>
+            <td><a href="assets/presentations/2020-08_careers_in_web_app_testing.pdf">Slides</a></td>
         </tr>
+<!--
         <tr>
             <td>2020/08/20</td>
             <td><i>Salt, key derivation function, MFA. What do these have in common?</i> by <a href="">Andy Li</a></td>
