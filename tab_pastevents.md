@@ -48,7 +48,7 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         </tr>
         <tr>
             <td>2020/08/20</td>
-            <td><i>Application Logging</i> by <a href="https://www.linkedin.com/in/sofia-chang/">Sofia Chang</a></td>
+            <td><i>Insufficient Logging & Monitoring</i> by <a href="https://www.linkedin.com/in/sofia-chang/">Sofia Chang</a></td>
             <td><a href="assets/presentations/2020-08_Insufficient_Logging_and_Monitoring.pdf">Slides</a></td>
         </tr>
         <tr>
