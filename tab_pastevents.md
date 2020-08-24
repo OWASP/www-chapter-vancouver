@@ -46,13 +46,11 @@ You can find the full list of our past events [here](http://owaspvancouver.event
             <td><i>The Evolution of Authentication</i> by <a href="https://www.linkedin.com/in/li-andy/">Andy Li</a></td>
             <td><a href="assets/presentations/2020-08_The_Evolution_of_Authentication.pdf">Slides</a></td>
         </tr>
-<!--
         <tr>
             <td>2020/08/20</td>
-            <td><i>Application Logging</i> by <a href="">Sofia Chang</a></td>
-            <td></td>
+            <td><i>Application Logging</i> by <a href="https://www.linkedin.com/in/sofia-chang/">Sofia Chang</a></td>
+            <td><a href="assets/presentations/2020-08_Insufficient_Logging_and_Monitoring.pdf">Slides</a></td>
         </tr>
--->
         <tr>
             <td>2020/07/16</td>
             <td><i>Detect Complex Code Patterns Using Semantic Grep</i> by <a href="https://twitter.com/drewdennison">Drew Dennison</a></td>
