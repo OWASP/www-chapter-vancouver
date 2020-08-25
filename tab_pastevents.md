@@ -34,7 +34,8 @@ You can find the full list of our past events [here](http://owaspvancouver.event
         <tr>
             <td>2020/08/20</td>
             <td><i>Have you heard of Samy Kamkar?</i> by <a href="https://www.linkedin.com/in/mrigakshi-goel-19b6051a/">Mrigakshi Goel</a></td>
-            <td><a href="assets/presentations/2020-08_XSS_Mrigakshi.pdf">Slides</a></td>
+            <td><a href="assets/presentations/2020-08_XSS_Mrigakshi.pdf">Slides</a><br/>
+                <a href="https://youtu.be/Y0eEel-ppYs">Demo (slide 7)</a></td>
         </tr>
         <tr>
             <td>2020/08/20</td>
