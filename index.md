@@ -26,7 +26,7 @@ hope you can join us in accomplishing that.
 
 ## Events
 
-**Vancouver and Victoria OWASP Chapters are excited to present inaugural BC AppSec Day
+**Vancouver and Victoria OWASP Chapters are excited to present the inaugural BC AppSec Day
 on 03 October 2020. Join us for talks, workshops, and interactive panels.
 [Schedule and registration](https://www.eventbrite.ca/e/owasp-bc-appsec-day-2020-tickets-119389965601)**
 
