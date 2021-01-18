@@ -51,7 +51,7 @@ volunteers).
 
 Join the conversation in [#owasp-vancouver](https://mars-comm.slack.com/archives/C6QHGPUAK) channel on [MARS Slack](https://fourthplanet.ca/slack/).
 
-## Our 2019 Sponsors
+## Our 2019 Supporters
 
 We would like to thank the following companies for providing us with
 space, pizza and pop, and helping us with our mission to enrich
