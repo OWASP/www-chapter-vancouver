@@ -1,7 +1,9 @@
 ### Chapter Information
+
 * Vancouver, BC
 
 ### Social Links
+
 * [Meetups](https://www.meetup.com/OWASP-Vancouver-Chapter/)
 * [OWASP Vancouver YouTube channel](https://www.youtube.com/channel/UCSXBb_cPvieNm-MoLjjtbXw)
 * [@OWASPVancouver on Twitter](https://twitter.com/OWASPVancouver)

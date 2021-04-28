@@ -13,6 +13,7 @@ postal-code:
 ---
 
 ## Welcome
+
 Welcome to the OWASP
 [Vancouver](https://en.wikipedia.org/wiki/Vancouver) chapter home page.
 We are located in the beautiful province of [British
