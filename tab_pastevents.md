@@ -9,7 +9,8 @@ tags: pastevents-tag
 
 ## Past Events
 
-You can find the full list of our past events [here](http://owaspvancouver.eventbrite.com/).
+You can find the full list of our past events [here](http://owaspvancouver.eventbrite.com/)
+and [here](https://www.meetup.com/OWASP-Vancouver-Chapter/).
 
 <div class="talks">
     <br>
