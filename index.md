@@ -27,7 +27,7 @@ hope you can join us in accomplishing that.
 
 ## Events
 
-Our monthly sessions take place on the 4th Thursday of each month. We
+Our monthly sessions take place on the 3rd Thursday of each month. We
 also host one off events and workshops around town.
 
 Have a look at [our calendar of awesome
