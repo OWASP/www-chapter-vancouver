@@ -42,8 +42,7 @@ Presentations from some of our past events can be found in the **Past Events** s
 
 **Subscribe** to the [OWASP Vancouver YouTube channel](https://www.youtube.com/channel/UCeZ_fej13-AJwBIv_CZB_jw)
 where you can check out live streams of upcoming sessions as well as
-archives of previous sessions (big thanks to **George Pajari** and
-volunteers).
+archives of previous sessions.
 
 ## Slack Channel
 
