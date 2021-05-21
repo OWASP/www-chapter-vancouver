@@ -30,10 +30,12 @@ hope you can join us in accomplishing that.
 Our monthly sessions take place on the 3rd Thursday of each month. We
 also host one off events and workshops around town.
 
-Have a look at [our calendar of awesome
-events](https://www.meetup.com/OWASP-Vancouver-Chapter/) and join us\!
+### Upcoming Meetup Events: ###
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Presentations from some of our past events can be found in the **Past Events** section above.
+
 <!-- links to tabs, like [Past Events](#div-pastevents) are not working at the moment (28 Jan 2020) -->
 
 ## Watch Online
