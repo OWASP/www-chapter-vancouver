@@ -2,7 +2,7 @@
 title: Sponsorship
 layout:  null
 tab: true
-order: 3
+order: 4
 tags: sponsorship-tag
 ---
 

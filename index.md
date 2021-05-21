@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vancouver
-tags: pastevents-tag participation-tag sponsorship-tag
+tags: events-tag pastevents-tag participation-tag sponsorship-tag
 level: 0
 
 region: North America
@@ -24,25 +24,6 @@ Our mission is to enrich Vancouver's application security community. We
 hope you can join us in accomplishing that.
 
 ![Vancouver, BC](assets/images/Vancouver1000x450.png)
-
-## Events
-
-Our monthly sessions take place on the 3rd Thursday of each month. We
-also host one off events and workshops around town.
-
-### Upcoming Meetup Events: ###
-
-{% include chapter_events.html group=page.meetup-group %}
-
-Presentations from some of our past events can be found in the **Past Events** section above.
-
-<!-- links to tabs, like [Past Events](#div-pastevents) are not working at the moment (28 Jan 2020) -->
-
-## Watch Online
-
-**Subscribe** to the [OWASP Vancouver YouTube channel](https://www.youtube.com/channel/UCeZ_fej13-AJwBIv_CZB_jw)
-where you can check out live streams of upcoming sessions as well as
-archives of previous sessions.
 
 ## Slack Channel
 

@@ -3,9 +3,15 @@ title: PastEvents
 displaytext: Past Events
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: pastevents-tag
 ---
+
+## Watch Online
+
+**Subscribe** to the [OWASP Vancouver YouTube channel](https://www.youtube.com/channel/UCeZ_fej13-AJwBIv_CZB_jw)
+where you can check out live streams of upcoming sessions as well as
+archives of previous sessions.
 
 ## Past Events
 
