@@ -16,7 +16,7 @@
 ### Social Links
 
 * [Meetups](https://www.meetup.com/OWASP-Vancouver-Chapter/)
-* [OWASP Vancouver YouTube channel](https://www.youtube.com/channel/UCSXBb_cPvieNm-MoLjjtbXw)
+* [OWASP Vancouver YouTube channel](https://www.youtube.com/channel/UCeZ_fej13-AJwBIv_CZB_jw)
 * [@OWASPVancouver on Twitter](https://twitter.com/OWASPVancouver)
 * [#owasp-vancouver](https://mars-comm.slack.com/archives/C6QHGPUAK) on [MARS Slack](https://fourthplanet.ca/slack/)
 * [Mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/vancouver-chapter)
