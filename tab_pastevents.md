@@ -34,6 +34,11 @@ and [here](https://www.meetup.com/OWASP-Vancouver-Chapter/).
         </tr>
 -->
         <tr>
+            <td>2025/06/19</td>
+            <td><i>The Secret Life of Malicious Packages</i> by <a href="https://www.linkedin.com/in/megg-s-04152367/">Megg Sage</a></td>
+            <td><a href="assets/presentations/2025-06_Megg_Sage-The_Secret_Life_of_Malicious_Packages.pdf">Slides</a></td>
+        </tr>
+        <tr>
             <td>2020/08/20</td>
             <td><i>XXEs in Golang are Surprisingly Hard</i> by <a href="https://www.linkedin.com/in/ericmpayne/">Eric Payne</a></td>
             <td><a href="assets/presentations/2020-08_Golang_XXE.pdf">Slides</a></td>
