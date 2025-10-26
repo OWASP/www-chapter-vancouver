@@ -1,0 +1,29 @@
+leaders:
+  - name: Farshad Abasi
+    email: farshad.abasi@owasp.org
+    github: fabasi
+  - name: Jeevan Singh
+    email: jeevan.singh@owasp.org
+    github: jeevan-singh
+  - name: Amiran Alavidze
+    email: amiran.alavidze@owasp.org
+    github: tt-amiran
+location:
+  country: Canada
+  country_code: CA
+  region: British Columbia
+  city: Vancouver
+  latitude: 49.2608724
+  longitude: -123.113952
+meetup_group: OWASP-Vancouver-Chapter
+name: OWASP Vancouver
+repositories:
+  - name: www-chapter-vancouver
+    url: https://github.com/OWASP/www-chapter-vancouver
+    description: OWASP Foundation Web Repository
+tags:
+  - events-tag
+  - pastevents-tag
+  - participation-tag
+  - sponsorship-tag
+website: https://owasp.org/www-chapter-vancouver
