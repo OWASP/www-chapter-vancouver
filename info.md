@@ -8,6 +8,8 @@
 * [Amiran Alavidze](https://www.linkedin.com/in/aalavidze/)
 * [Azadeh Shah](https://www.linkedin.com/in/asharghi/)
 * [Ben Gibbs](https://www.linkedin.com/in/benjgibbs/)
+* [Henriette Koning](https://www.linkedin.com/in/henriettekoning/)
+* [Bill Souder](https://www.linkedin.com/in/wsouder/)
 
 
 ### Social Links
