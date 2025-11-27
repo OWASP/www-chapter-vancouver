@@ -5,11 +5,8 @@
 ### OWASP Vancouver Board 
 * [Farahad Abasi](https://www.linkedin.com/in/farshadabasi/)
 * [Jeevan Singh](https://www.linkedin.com/in/jeevansecurity/)
-* [Dana Epp](https://www.linkedin.com/in/danaepp/)
 * [Amiran Alavidze](https://www.linkedin.com/in/aalavidze/)
-* [Aarti Gadhia](https://www.linkedin.com/in/aartigadhia/)
 * [Azadeh Shah](https://www.linkedin.com/in/asharghi/)
-* [Ads Dawson](https://www.linkedin.com/in/adamdawson0/)
 * [Ben Gibbs](https://www.linkedin.com/in/benjgibbs/)
 
 
