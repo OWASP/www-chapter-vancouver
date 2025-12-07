@@ -41,7 +41,7 @@ hope you can join us in accomplishing that.
     text-align: right;
   }
   .content-table img {
-    width: 100%;
+    width: 200px;
   }
 </style>
 
@@ -52,7 +52,7 @@ hope you can join us in accomplishing that.
       <p>Check out our <a href="https://www.meetup.com/owasp-vancouver-chapter">meetings on Meetup</a> and come along to learn and connect with other local security folk - we'd love to meet you!</p>
     </td>
     <td class="image-column">
-      <img src="path/to/meetup-image.png" alt="Meetup">
+      <img src="assets/images/meetup-logo.png" alt="Meetup">
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ hope you can join us in accomplishing that.
       <p>We're always looking for speakers for our meetings, so whether you have a 5 minute or hour-long talk, let us know by sharing the details via our Speaker form: <a href="https://forms.gle/thuaQHMzxumG6Wxy6">https://forms.gle/thuaQHMzxumG6Wxy6</a></p>
     </td>
     <td class="image-column">
-      <img src="path/to/speaker-image.png" alt="Speaker">
+      <img src="assets/images/microphone.png" alt="Speaker">
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ hope you can join us in accomplishing that.
       <p>Join the conversation in our <a href="https://mars-comm.slack.com/archives/C6QHGPUAK">#owasp-vancouver</a> channel on the MARS Community Slack Workspace! If you're not already there, <a href="https://join.slack.com/t/mars-comm/shared_invite/zt-2e5n00d34-q9tsNfKS_XrtEDWFpRTxKQ">click here to join</a>.</p>
     </td>
     <td class="image-column">
-      <img src="path/to/slack-image.png" alt="Slack">
+      <img src="assets/images/slack-logo.png" alt="Slack">
     </td>
   </tr>
   <tr>
@@ -79,12 +79,12 @@ hope you can join us in accomplishing that.
       <p>Learn about our upcoming meetings and other news in our LinkedIn Group: <a href="https://www.linkedin.com/groups/14485841/">https://www.linkedin.com/groups/14485841/</a></p>
     </td>
     <td class="image-column">
-      <img src="path/to/linkedin-image.png" alt="LinkedIn">
+      <img src="assets/images/linkedin-logo.png" alt="LinkedIn">
     </td>
   </tr>
 </table>
 
-## Our 2019 Supporters
+## Our 2025 Supporters
 
 We would like to thank the following companies for providing us with
 space, pizza and pop, and helping us with our mission to enrich
