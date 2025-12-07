@@ -101,18 +101,30 @@ Vancouver's application security community.
         border: 0px;
         background-color: #ffffff;
     }
+
+  table.sponsors-table img {
+    width: 200px;
+  }
 </style>
 
 <table class="sponsors-table">
     <tr>
         <td> <a href="https://www.forwardsecurity.com/"> <img src="assets/images/FwdSec.png" alt="FWDSEC" title="FWDSEC"/> </a> </td>
-        <td> <a href="https://www.pof.com/en/press/"> <img src="assets/images/PlentyOfFish.png" alt="Plenty of Fish" title="Plenty of Fish"/> </a> </td>
-        <td> <a href="https://www.zenefits.com/"> <img src="assets/images/Zenefits.png" alt="Zenefits" title="Zenefits"/> </a> </td>
+        <td> <a href="https://venturelabs.ca"> <img src="assets/images/venture-labs-logo.png" alt="Venture Labsh" title="Venture Labs"/> </a> </td>
+        <td> <a href="https://www.sap.com"> <img src="assets/images/sap-logo.jpeg" alt="SAP" title="SAP"/> </a> </td>
+        <td> <a href="https://www.telus.com/en/health"> <img src="assets/images/telus-health-logo.png" alt="TELUS Health" title="TELUS Health"/> </a> </td>
     </tr>
     <tr>
-        <td> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" title="Galvanize"/> </a> </td>
-        <td> <a href="https://www.cisco.com/c/en_ca/index.html"> <img src="assets/images/CISCO.png" alt="Cisco" title="Cisco"/> </a> </td>
-        <td> <a href="https://www.cmd.com/"> <img src="assets/images/Cmd.png" alt=">_cmd" title=">_cmd"/> </a> </td>
+        <td> <a href="https://www.ey.com/en_ca"> <img src="assets/images/ey-logo.png" alt="EY" title="EY"/> </a> </td>
+        <td> <a href="https://www.endorlabs.com"> <img src="assets/images/endor-labs-logo.png" alt="Endor Labs" title="Endor Labs"/> </a> </td>
+        <td> <a href="https://www.securityjourney.com"> <img src="assets/images/security-journey-logo.png" alt="Security Journey" title="Security Journey"/> </a> </td>
+        <td> <a href="https://www.practical-devsecops.com"> <img src="assets/images/practical-devsecops-logo.png" alt="Practical DevSecOps" title="Practical DevSecOps"/> </a> </td>
+    </tr>
+    <tr>
+        <td> <a href="https://www.isaca.org"> <img src="assets/images/isaca-logo.png" alt="ISACA" title="ISACA"/> </a> </td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
