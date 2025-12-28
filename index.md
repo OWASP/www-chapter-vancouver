@@ -35,6 +35,7 @@ hope you can join us in accomplishing that.
   }
   .content-table .text-column {
     width: auto;
+    padding-left: 0px;
   }
   .content-table .image-column {
     width: 200px;
@@ -52,7 +53,7 @@ hope you can join us in accomplishing that.
       <p>Check out our <a href="https://www.meetup.com/owasp-vancouver-chapter">meetings on Meetup</a> and come along to learn and connect with other local security folk - we'd love to meet you!</p>
     </td>
     <td class="image-column">
-      <img src="assets/images/meetup-logo.png" alt="Meetup">
+      <a href="https://www.meetup.com/owasp-vancouver-chapter"> <img src="assets/images/meetup-logo.png" alt="Meetup"> </a>
     </td>
   </tr>
   <tr>
@@ -61,7 +62,7 @@ hope you can join us in accomplishing that.
       <p>We're always looking for speakers for our meetings, so whether you have a 5 minute or hour-long talk, let us know by sharing the details via our Speaker form: <a href="https://forms.gle/thuaQHMzxumG6Wxy6">https://forms.gle/thuaQHMzxumG6Wxy6</a></p>
     </td>
     <td class="image-column">
-      <img src="assets/images/microphone.png" alt="Speaker">
+      <a href="https://forms.gle/thuaQHMzxumG6Wxy6"> <img src="assets/images/microphone.png" alt="Speaker"> </a>
     </td>
   </tr>
   <tr>
@@ -70,7 +71,7 @@ hope you can join us in accomplishing that.
       <p>Join the conversation in our <a href="https://mars-comm.slack.com/archives/C6QHGPUAK">#owasp-vancouver</a> channel on the MARS Community Slack Workspace! If you're not already there, <a href="https://join.slack.com/t/mars-comm/shared_invite/zt-2e5n00d34-q9tsNfKS_XrtEDWFpRTxKQ">click here to join</a>.</p>
     </td>
     <td class="image-column">
-      <img src="assets/images/slack-logo.png" alt="Slack">
+      <a href="https://join.slack.com/t/mars-comm/shared_invite/zt-2e5n00d34-q9tsNfKS_XrtEDWFpRTxKQ"> <img src="assets/images/slack-logo.png" alt="Slack"> </a>
     </td>
   </tr>
   <tr>
@@ -79,7 +80,7 @@ hope you can join us in accomplishing that.
       <p>Learn about our upcoming meetings and other news in our LinkedIn Group: <a href="https://www.linkedin.com/groups/14485841/">https://www.linkedin.com/groups/14485841/</a></p>
     </td>
     <td class="image-column">
-      <img src="assets/images/linkedin-logo.png" alt="LinkedIn">
+      <a href="https://www.linkedin.com/groups/14485841/"> <img src="assets/images/linkedin-logo.png" alt="LinkedIn"> </a>
     </td>
   </tr>
 </table>
@@ -115,13 +116,13 @@ Vancouver's application security community.
         <td> <a href="https://www.telus.com/en/health"> <img src="assets/images/telus-health-logo.png" alt="TELUS Health" title="TELUS Health"/> </a> </td>
     </tr>
     <tr>
-        <td> <a href="https://www.ey.com/en_ca"> <img src="assets/images/ey-logo.png" alt="EY" title="EY"/> </a> </td>
+        <td> <a href="https://www.isaca.org"> <img src="assets/images/isaca-logo.png" alt="ISACA" title="ISACA"/> </a> </td>
         <td> <a href="https://www.endorlabs.com"> <img src="assets/images/endor-labs-logo.png" alt="Endor Labs" title="Endor Labs"/> </a> </td>
         <td> <a href="https://www.securityjourney.com"> <img src="assets/images/security-journey-logo.png" alt="Security Journey" title="Security Journey"/> </a> </td>
         <td> <a href="https://www.practical-devsecops.com"> <img src="assets/images/practical-devsecops-logo.png" alt="Practical DevSecOps" title="Practical DevSecOps"/> </a> </td>
     </tr>
     <tr>
-        <td> <a href="https://www.isaca.org"> <img src="assets/images/isaca-logo.png" alt="ISACA" title="ISACA"/> </a> </td>
+        <td> <a href="https://www.ey.com/en_ca"> <img src="assets/images/ey-logo.png" alt="EY" title="EY"/> </a> </td>
         <td></td>
         <td></td>
         <td></td>
