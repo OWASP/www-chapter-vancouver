@@ -25,19 +25,19 @@ hope you can join us in accomplishing that.
 
 <style>
   .content-table {
+    border-collapse: collapse;
     border: none;
   }
-  .content-table td {
+  .content-table td, .content-table tr {
     padding: 15px;
-    border: none;
+    border: 0px;
+    background-color: #ffffff;
   }
   .content-table .text-column {
     width: auto;
-    padding-left: 0;
   }
   .content-table .image-column {
     width: 200px;
-    padding-right: 0;
     text-align: right;
   }
   .content-table img {
