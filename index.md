@@ -49,11 +49,11 @@ hope you can join us in accomplishing that.
 <table class="content-table">
   <tr>
     <td class="text-column">
-      <h3>Upcoming meetings on Meetup</h3>
-      <p>Check out our <a href="https://www.meetup.com/owasp-vancouver-chapter">meetings on Meetup</a> and come along to learn and connect with other local security folk - we'd love to meet you!</p>
+      <h3>Upcoming meetings on Eventbrite</h3>
+      <p>Check out our <a href="https://www.eventbrite.com/o/120870731626">meetings on Eventbrite</a> and come along to learn and connect with other local security folk - we'd love to meet you!</p>
     </td>
     <td class="image-column">
-      <a href="https://www.meetup.com/owasp-vancouver-chapter"> <img src="assets/images/meetup-logo.png" alt="Meetup"> </a>
+      <a href="https://www.meetup.com/owasp-vancouver-chapter"> <img src="assets/images/Eventbrite.png" alt="Meetup"> </a>
     </td>
   </tr>
   <tr>
